@@ -1,7 +1,5 @@
-I am YouTuber
+I make videos about sandbox games on Linux
 
-https://www.youtube.com/channel/UCwaHZ0Apiugxg3eaDgETm3A 
+[YouTube Channel](https://www.youtube.com/c/focalopus)
 
-Odysee
-
-https://odysee.com/@divingchannel99:5
+[Odysee Channel](https://odysee.com/@divingchannel99:5)
